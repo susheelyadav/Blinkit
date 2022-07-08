@@ -1,0 +1,87 @@
+
+
+.deco{
+      font-weight:Bold;
+      color: Orange;
+      font-size:40px;
+      padding-left: 0.8em;
+      width:5em;
+
+}
+
+.deco1{
+      font-weight:Bold;
+      font-size:40px;
+     color: green;
+}
+
+.delivery{
+      font-weight:bold; 
+}
+
+.space{
+      padding-right: 9em;
+      width: 60%;
+}
+
+
+.smallspacing{
+      padding-right:7.2rem;
+}
+
+.cardspacing{
+      padding-right: 17rem;
+}
+
+.bold_text{
+      font-weight: bold;
+      padding-left: 2rem;
+}
+
+.smallcardspacing{
+      padding-right: 8rem;
+}
+
+.pay{
+      width:5rem;
+      height:5rem;
+}
+
+
+.margin-left{
+      padding-left: 5em;
+}
+
+.card_div{
+      gap: 2em;
+}
+
+
+.card_col{
+      width: 80%;
+}
+
+.card_img{
+      width: 50%;
+}
+
+
+
+
+@media (max-width: 1000px){.card_col{
+      flex-direction: column;
+      width: 40%;
+
+}
+}
+
+@media (max-width: 1000px){.space{
+      width: 100%;
+      margin:1em 0;
+
+}
+}
+
+.fruitimage{
+      width:10rem;
+     }
